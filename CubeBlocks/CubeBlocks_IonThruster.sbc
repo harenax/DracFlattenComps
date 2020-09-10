@@ -437,12 +437,12 @@
             <Components>
               <Component Subtype="TechA4x" Count="2"/>
               <Component Subtype="TechB4x" Count="2"/>
-              <Component Subtype="SteelPlate" Count="3"/>
-              <Component Subtype="Construction" Count="3"/>
-              <Component Subtype="LargeTube" Count="3"/>
-              <Component Subtype="Thrust" Count="3"/>
-              <Component Subtype="Construction" Count="3"/>
-              <Component Subtype="SteelPlate" Count="3"/>
+                <Component Subtype="SteelPlate" Count="2"/>
+                <Component Subtype="Construction" Count="2"/>
+                <Component Subtype="LargeTube" Count="2"/>
+                <Component Subtype="Thrust" Count="2"/>
+                <Component Subtype="Construction" Count="2"/>
+                <Component Subtype="SteelPlate" Count="2"/>
             </Components>
             <CriticalComponent Subtype="Thrust" Index="0"/>
             <MountPoints>
@@ -541,12 +541,12 @@
             <Components>
               <Component Subtype="TechA4x" Count="4"/>
               <Component Subtype="TechB4x" Count="4"/>
-              <Component Subtype="SteelPlate" Count="3"/>
-              <Component Subtype="Construction" Count="3"/>
-              <Component Subtype="LargeTube" Count="12"/>
-              <Component Subtype="Thrust" Count="27"/>
-              <Component Subtype="Construction" Count="3"/>
-              <Component Subtype="SteelPlate" Count="9"/>
+                <Component Subtype="SteelPlate" Count="2"/>
+                <Component Subtype="Construction" Count="2"/>
+                <Component Subtype="LargeTube" Count="8"/>
+                <Component Subtype="Thrust" Count="18"/>
+                <Component Subtype="Construction" Count="2"/>
+                <Component Subtype="SteelPlate" Count="6"/>
             </Components>
             <CriticalComponent Subtype="Thrust" Index="0"/>
             <MountPoints>
@@ -644,12 +644,12 @@
             <Components>
               <Component Subtype="TechA4x" Count="5"/>
               <Component Subtype="TechB4x" Count="5"/>
-              <Component Subtype="SteelPlate" Count="34"/>
-              <Component Subtype="Construction" Count="90"/>
-              <Component Subtype="LargeTube" Count="18"/>
-              <Component Subtype="Thrust" Count="180"/>
-              <Component Subtype="Construction" Count="45"/>
-              <Component Subtype="SteelPlate" Count="23"/>
+                <Component Subtype="SteelPlate" Count="23"/>
+                <Component Subtype="Construction" Count="60"/>
+                <Component Subtype="LargeTube" Count="12"/>
+                <Component Subtype="Thrust" Count="120"/>
+                <Component Subtype="Construction" Count="30"/>
+                <Component Subtype="SteelPlate" Count="15"/>
             </Components>
             <CriticalComponent Subtype="Thrust" Index="0"/>
             <MountPoints>
@@ -748,12 +748,12 @@
             <Components>
               <Component Subtype="TechA4x" Count="25"/>
               <Component Subtype="TechB4x" Count="25"/>
-              <Component Subtype="SteelPlate" Count="225"/>
-              <Component Subtype="Construction" Count="158"/>
-              <Component Subtype="LargeTube" Count="90"/>
-              <Component Subtype="Thrust" Count="2160"/>
-              <Component Subtype="Construction" Count="68"/>
-              <Component Subtype="SteelPlate" Count="113"/>
+                <Component Subtype="SteelPlate" Count="150"/>
+                <Component Subtype="Construction" Count="105"/>
+                <Component Subtype="LargeTube" Count="60"/>
+                <Component Subtype="Thrust" Count="1440"/>
+                <Component Subtype="Construction" Count="45"/>
+                <Component Subtype="SteelPlate" Count="75"/>
             </Components>
             <CriticalComponent Subtype="Thrust" Index="0"/>
             <MountPoints>
@@ -855,12 +855,12 @@
             <Components>
               <Component Subtype="TechA8x" Count="2"/>
               <Component Subtype="TechB8x" Count="2"/>
-              <Component Subtype="SteelPlate" Count="4"/>
-              <Component Subtype="Construction" Count="4"/>
-              <Component Subtype="LargeTube" Count="4"/>
-              <Component Subtype="Thrust" Count="4"/>
-              <Component Subtype="Construction" Count="4"/>
-              <Component Subtype="SteelPlate" Count="4"/>
+                <Component Subtype="SteelPlate" Count="2"/>
+                <Component Subtype="Construction" Count="2"/>
+                <Component Subtype="LargeTube" Count="2"/>
+                <Component Subtype="Thrust" Count="2"/>
+                <Component Subtype="Construction" Count="2"/>
+                <Component Subtype="SteelPlate" Count="2"/>
             </Components>
             <CriticalComponent Subtype="Thrust" Index="0"/>
             <MountPoints>
@@ -959,12 +959,12 @@
             <Components>
                 <Component Subtype="TechA8x" Count="4"/>
                 <Component Subtype="TechB8x" Count="4"/>
-                <Component Subtype="SteelPlate" Count="4"/>
-                <Component Subtype="Construction" Count="4"/>
-                <Component Subtype="LargeTube" Count="17"/>
-                <Component Subtype="Thrust" Count="41"/>
-                <Component Subtype="Construction" Count="4"/>
-                <Component Subtype="SteelPlate" Count="14"/>
+                <Component Subtype="SteelPlate" Count="2"/>
+                <Component Subtype="Construction" Count="2"/>
+                <Component Subtype="LargeTube" Count="8"/>
+                <Component Subtype="Thrust" Count="18"/>
+                <Component Subtype="Construction" Count="2"/>
+                <Component Subtype="SteelPlate" Count="6"/>
             </Components>
             <CriticalComponent Subtype="Thrust" Index="0"/>
             <MountPoints>
@@ -1062,12 +1062,12 @@
             <Components>
               <Component Subtype="TechA8x" Count="5"/>
               <Component Subtype="TechB8x" Count="5"/>
-              <Component Subtype="SteelPlate" Count="51"/>
-              <Component Subtype="Construction" Count="135"/>
-              <Component Subtype="LargeTube" Count="27"/>
-              <Component Subtype="Thrust" Count="270"/>
-              <Component Subtype="Construction" Count="68"/>
-              <Component Subtype="SteelPlate" Count="34"/>
+                <Component Subtype="SteelPlate" Count="23"/>
+                <Component Subtype="Construction" Count="60"/>
+                <Component Subtype="LargeTube" Count="12"/>
+                <Component Subtype="Thrust" Count="120"/>
+                <Component Subtype="Construction" Count="30"/>
+                <Component Subtype="SteelPlate" Count="15"/>
             </Components>
             <CriticalComponent Subtype="Thrust" Index="0"/>
             <MountPoints>
@@ -1166,12 +1166,12 @@
             <Components>
               <Component Subtype="TechA8x" Count="25"/>
               <Component Subtype="TechB8x" Count="25"/>
-              <Component Subtype="SteelPlate" Count="338"/>
-              <Component Subtype="Construction" Count="237"/>
-              <Component Subtype="LargeTube" Count="135"/>
-              <Component Subtype="Thrust" Count="3240"/>
-              <Component Subtype="Construction" Count="102"/>
-              <Component Subtype="SteelPlate" Count="169"/>
+                <Component Subtype="SteelPlate" Count="150"/>
+                <Component Subtype="Construction" Count="105"/>
+                <Component Subtype="LargeTube" Count="60"/>
+                <Component Subtype="Thrust" Count="1440"/>
+                <Component Subtype="Construction" Count="45"/>
+                <Component Subtype="SteelPlate" Count="75"/>
             </Components>
             <CriticalComponent Subtype="Thrust" Index="0"/>
             <MountPoints>
