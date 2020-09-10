@@ -98,12 +98,12 @@
             <Components>
               <Component Subtype="TechA4x" Count="8"/>
               <Component Subtype="TechB4x" Count="8"/>
-              <Component Subtype="InteriorPlate" Count="15"/>
-              <Component Subtype="Motor" Count="12"/>
-              <Component Subtype="Construction" Count="30"/>
-              <Component Subtype="Girder" Count="36"/>
-              <Component Subtype="Computer" Count="3"/>
-              <Component Subtype="InteriorPlate" Count="45"/>
+                <Component Subtype="InteriorPlate" Count="15"/>
+                <Component Subtype="Motor" Count="12"/>
+                <Component Subtype="Construction" Count="30"/>
+                <Component Subtype="Girder" Count="36"/>
+                <Component Subtype="Computer" Count="3"/>
+                <Component Subtype="InteriorPlate" Count="45"/>
             </Components>
             <CriticalComponent Subtype="Computer" Index="0"/>
             <MountPoints>
@@ -174,12 +174,12 @@
             <Components>
               <Component Subtype="TechA8x" Count="8"/>
               <Component Subtype="TechB8x" Count="8"/>
-              <Component Subtype="InteriorPlate" Count="15"/>
-              <Component Subtype="Motor" Count="12"/>
-              <Component Subtype="Construction" Count="30"/>
-              <Component Subtype="Girder" Count="36"/>
-              <Component Subtype="Computer" Count="3"/>
-              <Component Subtype="InteriorPlate" Count="45"/>
+                <Component Subtype="InteriorPlate" Count="15"/>
+                <Component Subtype="Motor" Count="12"/>
+                <Component Subtype="Construction" Count="30"/>
+                <Component Subtype="Girder" Count="36"/>
+                <Component Subtype="Computer" Count="3"/>
+                <Component Subtype="InteriorPlate" Count="45"/>
             </Components>
             <CriticalComponent Subtype="Computer" Index="0"/>
             <MountPoints>
