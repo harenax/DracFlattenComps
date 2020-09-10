@@ -483,13 +483,13 @@
             <Components>
               <Component Subtype="TechA4x" Count="2"/>
               <Component Subtype="TechB4x" Count="2"/>
-              <Component Subtype="SteelPlate" Count="5"/>
-              <Component Subtype="Construction" Count="45"/>
-              <Component Subtype="LargeTube" Count="3"/>
-              <Component Subtype="MetalGrid" Count="3"/>
-              <Component Subtype="Motor" Count="41"/>
-              <Component Subtype="Construction" Count="5"/>
               <Component Subtype="SteelPlate" Count="3"/>
+              <Component Subtype="Construction" Count="30"/>
+              <Component Subtype="LargeTube" Count="2"/>
+              <Component Subtype="MetalGrid" Count="2"/>
+              <Component Subtype="Motor" Count="27"/>
+              <Component Subtype="Construction" Count="3"/>
+              <Component Subtype="SteelPlate" Count="2"/>
             </Components>
             <CriticalComponent Subtype="Motor" Index="0"/>
             <MountPoints>
@@ -600,13 +600,13 @@
             <Components>
               <Component Subtype="TechA4x" Count="4"/>
               <Component Subtype="TechB4x" Count="4"/>
-              <Component Subtype="SteelPlate" Count="23"/>
-              <Component Subtype="Construction" Count="45"/>
-              <Component Subtype="LargeTube" Count="9"/>
-              <Component Subtype="MetalGrid" Count="18"/>
-              <Component Subtype="Motor" Count="203"/>
-              <Component Subtype="Construction" Count="23"/>
-              <Component Subtype="SteelPlate" Count="23"/>
+              <Component Subtype="SteelPlate" Count="15"/>
+              <Component Subtype="Construction" Count="30"/>
+              <Component Subtype="LargeTube" Count="6"/>
+              <Component Subtype="MetalGrid" Count="12"/>
+              <Component Subtype="Motor" Count="135"/>
+              <Component Subtype="Construction" Count="15"/>
+              <Component Subtype="SteelPlate" Count="15"/>
             </Components>
             <CriticalComponent Subtype="Motor" Index="0"/>
             <MountPoints>
@@ -715,13 +715,13 @@
             <Components>
               <Component Subtype="TechA4x" Count="5"/>
               <Component Subtype="TechB4x" Count="5"/>
-              <Component Subtype="SteelPlate" Count="34"/>
-              <Component Subtype="Construction" Count="68"/>
-              <Component Subtype="LargeTube" Count="18"/>
-              <Component Subtype="MetalGrid" Count="23"/>
-              <Component Subtype="Motor" Count="248"/>
+              <Component Subtype="SteelPlate" Count="23"/>
               <Component Subtype="Construction" Count="45"/>
-              <Component Subtype="SteelPlate" Count="45"/>
+              <Component Subtype="LargeTube" Count="12"/>
+              <Component Subtype="MetalGrid" Count="15"/>
+              <Component Subtype="Motor" Count="165"/>
+              <Component Subtype="Construction" Count="30"/>
+              <Component Subtype="SteelPlate" Count="30"/>  
             </Components>
             <CriticalComponent Subtype="Motor" Index="0"/>
             <MountPoints>
@@ -831,13 +831,13 @@
             <Components>
               <Component Subtype="TechA4x" Count="25"/>
               <Component Subtype="TechB4x" Count="25"/>
-              <Component Subtype="SteelPlate" Count="225"/>
-              <Component Subtype="Construction" Count="90"/>
-              <Component Subtype="LargeTube" Count="113"/>
-              <Component Subtype="MetalGrid" Count="90"/>
-              <Component Subtype="Motor" Count="2475"/>
-              <Component Subtype="Construction" Count="45"/>
-              <Component Subtype="SteelPlate" Count="293"/>
+                <Component Subtype="SteelPlate" Count="150"/>
+                <Component Subtype="Construction" Count="60"/>
+                <Component Subtype="LargeTube" Count="75"/>
+                <Component Subtype="MetalGrid" Count="60"/>
+                <Component Subtype="Motor" Count="1650"/>
+                <Component Subtype="Construction" Count="30"/>
+                <Component Subtype="SteelPlate" Count="195"/>
             </Components>
             <CriticalComponent Subtype="Motor" Index="0"/>
             <MountPoints>
@@ -947,13 +947,13 @@
             <Components>
               <Component Subtype="TechA8x" Count="2"/>
               <Component Subtype="TechB8x" Count="2"/>
-              <Component Subtype="SteelPlate" Count="7"/>
-              <Component Subtype="Construction" Count="68"/>
-              <Component Subtype="LargeTube" Count="4"/>
-              <Component Subtype="MetalGrid" Count="4"/>
-              <Component Subtype="Motor" Count="61"/>
-              <Component Subtype="Construction" Count="7"/>
-              <Component Subtype="SteelPlate" Count="4"/>
+              <Component Subtype="SteelPlate" Count="3"/>
+              <Component Subtype="Construction" Count="30"/>
+              <Component Subtype="LargeTube" Count="2"/>
+              <Component Subtype="MetalGrid" Count="2"/>
+              <Component Subtype="Motor" Count="27"/>
+              <Component Subtype="Construction" Count="3"/>
+              <Component Subtype="SteelPlate" Count="2"/>
             </Components>
             <CriticalComponent Subtype="Motor" Index="0"/>
             <MountPoints>
@@ -1064,13 +1064,13 @@
             <Components>
               <Component Subtype="TechA8x" Count="4"/>
               <Component Subtype="TechB8x" Count="4"/>
-              <Component Subtype="SteelPlate" Count="34"/>
-              <Component Subtype="Construction" Count="68"/>
-              <Component Subtype="LargeTube" Count="14"/>
-              <Component Subtype="MetalGrid" Count="27"/>
-              <Component Subtype="Motor" Count="304"/>
-              <Component Subtype="Construction" Count="34"/>
-              <Component Subtype="SteelPlate" Count="34"/>
+              <Component Subtype="SteelPlate" Count="15"/>
+              <Component Subtype="Construction" Count="30"/>
+              <Component Subtype="LargeTube" Count="6"/>
+              <Component Subtype="MetalGrid" Count="12"/>
+              <Component Subtype="Motor" Count="135"/>
+              <Component Subtype="Construction" Count="15"/>
+              <Component Subtype="SteelPlate" Count="15"/>
             </Components>
             <CriticalComponent Subtype="Motor" Index="0"/>
             <MountPoints>
@@ -1179,13 +1179,13 @@
             <Components>
               <Component Subtype="TechA8x" Count="5"/>
               <Component Subtype="TechB8x" Count="5"/>
-              <Component Subtype="SteelPlate" Count="51"/>
-              <Component Subtype="Construction" Count="102"/>
-              <Component Subtype="LargeTube" Count="27"/>
-              <Component Subtype="MetalGrid" Count="34"/>
-              <Component Subtype="Motor" Count="372"/>
-              <Component Subtype="Construction" Count="68"/>
-              <Component Subtype="SteelPlate" Count="68"/>
+              <Component Subtype="SteelPlate" Count="23"/>
+              <Component Subtype="Construction" Count="45"/>
+              <Component Subtype="LargeTube" Count="12"/>
+              <Component Subtype="MetalGrid" Count="15"/>
+              <Component Subtype="Motor" Count="165"/>
+              <Component Subtype="Construction" Count="30"/>
+              <Component Subtype="SteelPlate" Count="30"/>  
             </Components>
             <CriticalComponent Subtype="Motor" Index="0"/>
             <MountPoints>
@@ -1295,13 +1295,13 @@
             <Components>
               <Component Subtype="TechA8x" Count="25"/>
               <Component Subtype="TechB8x" Count="25"/>
-              <Component Subtype="SteelPlate" Count="338"/>
-              <Component Subtype="Construction" Count="135"/>
-              <Component Subtype="LargeTube" Count="169"/>
-              <Component Subtype="MetalGrid" Count="135"/>
-              <Component Subtype="Motor" Count="3713"/>
-              <Component Subtype="Construction" Count="68"/>
-              <Component Subtype="SteelPlate" Count="439"/>
+               <Component Subtype="SteelPlate" Count="150"/>
+               <Component Subtype="Construction" Count="60"/>
+               <Component Subtype="LargeTube" Count="75"/>
+               <Component Subtype="MetalGrid" Count="60"/>
+               <Component Subtype="Motor" Count="1650"/>
+               <Component Subtype="Construction" Count="30"/>
+               <Component Subtype="SteelPlate" Count="195"/>
             </Components>
             <CriticalComponent Subtype="Motor" Index="0"/>
             <MountPoints>
