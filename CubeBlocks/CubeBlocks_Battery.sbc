@@ -210,17 +210,17 @@
             <Components>
               <Component Subtype="TechA4x" Count="1"/>
               <Component Subtype="TechB4x" Count="1"/>
-              <Component Subtype="SteelPlate" Count="5"/>
-              <Component Subtype="Construction" Count="3"/>
-              <Component Subtype="PowerCell" Count="5">
+              <Component Subtype="SteelPlate" Count="3"/>
+              <Component Subtype="Construction" Count="2"/>
+              <Component Subtype="PowerCell" Count="3">
                 <DeconstructId>
                   <TypeId>Ore</TypeId>
                   <SubtypeId>Scrap</SubtypeId>
                 </DeconstructId>
               </Component>
-              <Component Subtype="Computer" Count="5"/>
-              <Component Subtype="Construction" Count="3"/>
-              <Component Subtype="SteelPlate" Count="5"/>
+              <Component Subtype="Computer" Count="3"/>
+              <Component Subtype="Construction" Count="2"/>
+              <Component Subtype="SteelPlate" Count="3"/>
             </Components>
             <CriticalComponent Subtype="Computer" Index="0"/>
             <BuildProgressModels>
@@ -268,17 +268,17 @@
             <Components>
               <Component Subtype="TechA4x" Count="4"/>
               <Component Subtype="TechB4x" Count="4"/>
-              <Component Subtype="SteelPlate" Count="12"/>
-              <Component Subtype="Construction" Count="5"/>
-              <Component Subtype="PowerCell" Count="45">
+              <Component Subtype="SteelPlate" Count="8"/>
+              <Component Subtype="Construction" Count="3"/>
+              <Component Subtype="PowerCell" Count="30">
                 <DeconstructId>
                   <TypeId>Ore</TypeId>
                   <SubtypeId>Scrap</SubtypeId>
                 </DeconstructId>
               </Component>
-              <Component Subtype="Computer" Count="5"/>
-              <Component Subtype="Construction" Count="7"/>
-              <Component Subtype="SteelPlate" Count="45"/>
+              <Component Subtype="Computer" Count="3"/>
+              <Component Subtype="Construction" Count="5"/>
+              <Component Subtype="SteelPlate" Count="30"/>
             </Components>
             <CriticalComponent Subtype="PowerCell" Index="0"/>
             <BuildProgressModels>
@@ -332,17 +332,17 @@
             <Components>
               <Component Subtype="TechA4x" Count="10"/>
               <Component Subtype="TechB4x" Count="10"/>
-              <Component Subtype="SteelPlate" Count="45"/>
-              <Component Subtype="Construction" Count="23"/>
-              <Component Subtype="PowerCell" Count="180">
-                <DeconstructId>
-                  <TypeId>Ore</TypeId>
-                  <SubtypeId>Scrap</SubtypeId>
-                </DeconstructId>
-              </Component>
-              <Component Subtype="Computer" Count="57"/>
-              <Component Subtype="Construction" Count="45"/>
-              <Component Subtype="SteelPlate" Count="135"/>
+                <Component Subtype="SteelPlate" Count="30"/>
+                <Component Subtype="Construction" Count="15"/>
+                <Component Subtype="PowerCell" Count="120">
+                    <DeconstructId>
+                        <TypeId>Ore</TypeId>
+                        <SubtypeId>Scrap</SubtypeId>
+                    </DeconstructId>
+                </Component>
+                <Component Subtype="Computer" Count="38"/>
+                <Component Subtype="Construction" Count="30"/>
+                <Component Subtype="SteelPlate" Count="90"/>
             </Components>
             <CriticalComponent Subtype="PowerCell" Index="0"/>
             <BuildProgressModels>
@@ -401,17 +401,17 @@
             <Components>
               <Component Subtype="TechA8x" Count="1"/>
               <Component Subtype="TechB8x" Count="1"/>
-              <Component Subtype="SteelPlate" Count="7"/>
-              <Component Subtype="Construction" Count="4"/>
-              <Component Subtype="PowerCell" Count="7">
+              <Component Subtype="SteelPlate" Count="3"/>
+              <Component Subtype="Construction" Count="2"/>
+              <Component Subtype="PowerCell" Count="3">
                 <DeconstructId>
                   <TypeId>Ore</TypeId>
                   <SubtypeId>Scrap</SubtypeId>
                 </DeconstructId>
               </Component>
-              <Component Subtype="Computer" Count="7"/>
-              <Component Subtype="Construction" Count="4"/>
-              <Component Subtype="SteelPlate" Count="7"/>
+              <Component Subtype="Computer" Count="3"/>
+              <Component Subtype="Construction" Count="2"/>
+              <Component Subtype="SteelPlate" Count="3"/>
             </Components>
             <CriticalComponent Subtype="Computer" Index="0"/>
             <BuildProgressModels>
@@ -459,17 +459,17 @@
             <Components>
               <Component Subtype="TechA8x" Count="4"/>
               <Component Subtype="TechB8x" Count="4"/>
-              <Component Subtype="SteelPlate" Count="17"/>
-              <Component Subtype="Construction" Count="7"/>
-              <Component Subtype="PowerCell" Count="68">
+              <Component Subtype="SteelPlate" Count="8"/>
+              <Component Subtype="Construction" Count="3"/>
+              <Component Subtype="PowerCell" Count="30">
                 <DeconstructId>
                   <TypeId>Ore</TypeId>
                   <SubtypeId>Scrap</SubtypeId>
                 </DeconstructId>
               </Component>
-              <Component Subtype="Computer" Count="7"/>
-              <Component Subtype="Construction" Count="11"/>
-              <Component Subtype="SteelPlate" Count="68"/>
+              <Component Subtype="Computer" Count="3"/>
+              <Component Subtype="Construction" Count="5"/>
+              <Component Subtype="SteelPlate" Count="30"/>
             </Components>
             <CriticalComponent Subtype="PowerCell" Index="0"/>
             <BuildProgressModels>
@@ -523,17 +523,17 @@
             <Components>
                 <Component Subtype="TechA8x" Count="10"/>
                 <Component Subtype="TechB8x" Count="10"/>
-                <Component Subtype="SteelPlate" Count="68"/>
-                <Component Subtype="Construction" Count="34"/>
-                <Component Subtype="PowerCell" Count="270">
+                <Component Subtype="SteelPlate" Count="30"/>
+                <Component Subtype="Construction" Count="15"/>
+                <Component Subtype="PowerCell" Count="120">
                     <DeconstructId>
                         <TypeId>Ore</TypeId>
                         <SubtypeId>Scrap</SubtypeId>
                     </DeconstructId>
                 </Component>
-                <Component Subtype="Computer" Count="85"/>
-                <Component Subtype="Construction" Count="68"/>
-                <Component Subtype="SteelPlate" Count="203"/>
+                <Component Subtype="Computer" Count="38"/>
+                <Component Subtype="Construction" Count="30"/>
+                <Component Subtype="SteelPlate" Count="90"/>
             </Components>
             <CriticalComponent Subtype="PowerCell" Index="0"/>
             <BuildProgressModels>
