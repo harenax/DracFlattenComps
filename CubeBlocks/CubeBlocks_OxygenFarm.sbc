@@ -89,13 +89,13 @@
             <Components>
               <Component Subtype="TechA4x" Count="3"/>
               <Component Subtype="TechB4x" Count="3"/>
-              <Component Subtype="SteelPlate" Count="90"/>
-              <Component Subtype="BulletproofGlass" Count="135"/>
-              <Component Subtype="LargeTube" Count="45"/>
-              <Component Subtype="SmallTube" Count="23"/>
-              <Component Subtype="Construction" Count="45"/>
-              <Component Subtype="Computer" Count="45"/>
-              <Component Subtype="BulletproofGlass" Count="90"/>
+                <Component Subtype="SteelPlate" Count="60"/>
+                <Component Subtype="BulletproofGlass" Count="90"/>
+                <Component Subtype="LargeTube" Count="30"/>
+                <Component Subtype="SmallTube" Count="15"/>
+                <Component Subtype="Construction" Count="30"/>
+                <Component Subtype="Computer" Count="30"/>
+                <Component Subtype="BulletproofGlass" Count="60"/>
             </Components>
             <CriticalComponent Subtype="Computer" Index="0" />
             <MountPoints>
@@ -159,13 +159,13 @@
             <Components>
               <Component Subtype="TechA8x" Count="3"/>
               <Component Subtype="TechB8x" Count="3"/>
-              <Component Subtype="SteelPlate" Count="135"/>
-              <Component Subtype="BulletproofGlass" Count="203"/>
-              <Component Subtype="LargeTube" Count="68"/>
-              <Component Subtype="SmallTube" Count="34"/>
-              <Component Subtype="Construction" Count="68"/>
-              <Component Subtype="Computer" Count="68"/>
-              <Component Subtype="BulletproofGlass" Count="135"/>
+                <Component Subtype="SteelPlate" Count="60"/>
+                <Component Subtype="BulletproofGlass" Count="90"/>
+                <Component Subtype="LargeTube" Count="30"/>
+                <Component Subtype="SmallTube" Count="15"/>
+                <Component Subtype="Construction" Count="30"/>
+                <Component Subtype="Computer" Count="30"/>
+                <Component Subtype="BulletproofGlass" Count="60"/>
             </Components>
             <CriticalComponent Subtype="Computer" Index="0" />
             <MountPoints>
